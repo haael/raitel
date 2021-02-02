@@ -1,0 +1,9 @@
+[submodule "raiden"]
+	path = raiden
+	url = https://github.com/raiden-network/raiden
+[submodule "TellorPlayground"]
+	path = TellorPlayground
+	url = https://github.com/tellor-io/TellorPlayground
+[submodule "go-ethereum"]
+	path = go-ethereum
+	url = https://github.com/ethereum/go-ethereum
